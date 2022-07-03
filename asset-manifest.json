@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hecho-a-mano.github.io/static/css/main.22941023.css",
-    "main.js": "/hecho-a-mano.github.io/static/js/main.9ba1114e.js",
-    "index.html": "/hecho-a-mano.github.io/index.html",
-    "main.22941023.css.map": "/hecho-a-mano.github.io/static/css/main.22941023.css.map",
-    "main.9ba1114e.js.map": "/hecho-a-mano.github.io/static/js/main.9ba1114e.js.map"
+    "main.css": "/static/css/main.22941023.css",
+    "main.js": "/static/js/main.9ba1114e.js",
+    "index.html": "/index.html",
+    "main.22941023.css.map": "/static/css/main.22941023.css.map",
+    "main.9ba1114e.js.map": "/static/js/main.9ba1114e.js.map"
   },
   "entrypoints": [
     "static/css/main.22941023.css",
